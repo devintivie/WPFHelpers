@@ -1,0 +1,9 @@
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\bin\Debug\netstandard2.0\WPFUserDialogs.deps.json
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\bin\Debug\netstandard2.0\WPFUserDialogs.dll
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\obj\Debug\netstandard2.0\WPFUserDialogs.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\obj\Debug\netstandard2.0\WPFUserDialogs.AssemblyInfo.cs
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\obj\Debug\netstandard2.0\WPFUserDialogs.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\bin\Debug\netstandard2.0\WPFUserDialogs.pdb
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\obj\Debug\netstandard2.0\WPFUserDialogs.csprojAssemblyReference.cache
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\obj\Debug\netstandard2.0\WPFUserDialogs.dll
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFUserDialogs\obj\Debug\netstandard2.0\WPFUserDialogs.pdb

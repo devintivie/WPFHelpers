@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+gAm6yHy1nFmcoo10OXwtibxgvRh5634GOViC8tsuuaEEpbqEE9zAF1tawhzhfpDSllxKH+3U1xyVCcaJ/qEA==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Documents\\source\\repos\\PatternGeneratorControl\\WPFUserDialogs\\WPFMessageBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devin\\.nuget\\packages\\acr.userdialogs\\7.1.0.442\\acr.userdialogs.7.1.0.442.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\bin\Debug\WPFToggleButtons.dll
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\bin\Debug\WPFToggleButtons.pdb
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\WPFToggleButtons_MarkupCompile.cache
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\WPFToggleButtons_MarkupCompile.lref
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\Themes\Generic.baml
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\WPFToggleButtons.g.resources
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\WPFToggleButtons.Properties.Resources.resources
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\WPFSwitches.csproj.GenerateResource.cache
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\WPFSwitches.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\WPFToggleButtons.dll
+D:\OneDrive\Documents\source\repos\PatternGeneratorControl\WPFToggleButtons\obj\Debug\WPFToggleButtons.pdb

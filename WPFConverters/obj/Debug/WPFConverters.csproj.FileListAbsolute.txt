@@ -1,0 +1,6 @@
+D:\OneDrive\Documents\source\repos\WPFConverters\bin\Debug\WPFConverters.dll
+D:\OneDrive\Documents\source\repos\WPFConverters\bin\Debug\WPFConverters.pdb
+D:\OneDrive\Documents\source\repos\WPFConverters\obj\Debug\WPFConverters.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\source\repos\WPFConverters\obj\Debug\WPFConverters.dll
+D:\OneDrive\Documents\source\repos\WPFConverters\obj\Debug\WPFConverters.pdb
+D:\OneDrive\Documents\source\repos\WPFConverters\obj\Debug\WPFConverters.csprojAssemblyReference.cache
